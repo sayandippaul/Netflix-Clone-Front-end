@@ -10,4 +10,4 @@ This project is a static clone of the Netflix web application, showcasing a resp
 <h5>Static Content:</h5> Implement static content to simulate the appearance of a functional streaming service.
 
 <h3>Live Link</h3>
-https://sagnikbera.github.io/Netflix-Clone-Front-end/
+[https://sagnikbera.github.io/Netflix-Clone-Front-end](https://sagnikbera.github.io/Netflix-Clone-Front-end/)https://sagnikbera.github.io/Netflix-Clone-Front-end//
