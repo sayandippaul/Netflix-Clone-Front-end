@@ -141,7 +141,7 @@ nav button{
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 0px;
+    gap: 15px;
 }
 
 
