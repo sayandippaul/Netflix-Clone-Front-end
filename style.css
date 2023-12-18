@@ -313,6 +313,7 @@ footer{
 
     .first{
         flex-wrap: wrap;
+        max-width: 90vw;
     }
 
     .hero> :nth-child(1){
