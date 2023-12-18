@@ -164,6 +164,7 @@ nav button{
     margin: auto;
     color: white;
     height: 80vh;
+    gap:15px;
 }
 
 .secImg{
