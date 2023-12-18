@@ -381,6 +381,9 @@ footer{
         size: 80%;
     }
 }
+
+@media screen and (max-width: 440px) {
+   
 .videoplayer
 {
     /* width: 10%; */
@@ -404,4 +407,5 @@ footer{
 
     /* visibility: hidden; */
     /* border: 5px solid green; */
+}
 }
